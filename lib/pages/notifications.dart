@@ -14,8 +14,8 @@ class ProfileList extends StatefulWidget {
 class _ProfileListState extends State<ProfileList> {
 
   List<Appointment> items = [
-    Appointment("Beyza", "Beyza", "Allergy", "assets/images/user(3).png", "Accepted", "10/10/2020 \n10.10"),
-    Appointment("Buket", "Buket", "Dermatology", "assets/images/user(6).png", "Accepted", "10/10/2020 \n 10.30 ")
+    Appointment("Beyza", "Beyza", "Allergy", "assets/images/profile_1.png", "Accepted", "10/10/2020 \n10.10"),
+    Appointment("Buket", "Buket", "Dermatology", "assets/images/profile_2.jpg", "Accepted", "10/10/2020 \n 10.30 ")
 
   ];
 

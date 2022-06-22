@@ -24,6 +24,9 @@ class MyApp extends StatelessWidget {
         ChangeNotifierProvider<BasicUserInfo>(create: (BuildContext context) => BasicUserInfo()),
       ],
       child: MaterialApp(
+        theme: ThemeData(
+          primaryColor: Colors.blueGrey
+        ),
         debugShowCheckedModeBanner: false,
         home: CommonPage(),
       ),
@@ -54,7 +57,7 @@ class _CommonPageState extends State<CommonPage> {
         toolbarHeight: height * 0.2,
         centerTitle: true,
         title: SwitchListTile(
-          activeColor: Colors.redAccent[400],
+          activeColor: Colors.blueGrey,
           autofocus: false,
           title: Provider.of<SLpage>(context).isLogin?
           Text("Sing In", style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold),):
