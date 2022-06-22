@@ -16,7 +16,7 @@ Treatment Page        |  Treatment Page       |   Notification Page             
 :-------------------------:|:-------------------------:|:-------------------------:|
 ![treatments_page1](https://user-images.githubusercontent.com/96770787/175022956-64215bc8-b59e-4091-a070-f6617fe211b9.png)|![treatments_page2](https://user-images.githubusercontent.com/96770787/175022993-48ad5274-85b9-4b63-a465-06b8126745c0.png)|![notification_page](https://user-images.githubusercontent.com/96770787/175023049-90da112a-4076-44f7-8bc8-61e9d5075b20.png)|![edit](https://user-images.githubusercontent.com/96770787/175022617-f44373b7-97d6-4da4-82f5-015f77fbe2b1.png)|
 
-## Project
+## Projects
 * For Hospital-Doctor App [Click here](https://github.com/UNIGIBBS/hospital-doctor)
 * For Hospital App API [Click here](https://github.com/UNIGIBBS/hospitalApp_API)
 
